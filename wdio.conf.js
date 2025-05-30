@@ -1,3 +1,5 @@
+// Should be working, however I am not able to install SDK on company laptop to test
+// and currently don't have my personal laptop
 exports.config = {
     runner: 'local',
     specs: ['./appium/specs/**/*.js'],
