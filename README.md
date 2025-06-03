@@ -105,5 +105,3 @@ Before installing or running the project, ensure the following tools are install
 * Mobile device/emulator should be connected and accessible for Appium to work.
 
 ---
-
-Let me know if you’d like to include badges, license, CI/CD instructions, or contributing guidelines.
